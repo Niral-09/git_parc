@@ -1,2 +1,2 @@
-print("world")
-print("name")
+print("world ")
+print("name  =")
